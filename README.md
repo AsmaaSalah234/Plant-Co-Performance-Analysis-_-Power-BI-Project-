@@ -97,3 +97,7 @@ o	China: -405.00K (largest negative change).
 3. **Optimize Low-Profit Accounts**: Consider renegotiating contracts or adjusting pricing strategies for accounts with low GP%.  
 4. **Product Category Strategy**: If certain product types are underperforming, consider promotional strategies or cost reductions.  
 5. **Country-Specific Actions**: Evaluate Sweden, UK, and Norway’s market conditions to identify improvement opportunities.
+
+## Dashboard 
+![Performance Analysis](https://github.com/user-attachments/assets/d1bd64f4-5f97-490d-9375-10e4d640544b) 
+

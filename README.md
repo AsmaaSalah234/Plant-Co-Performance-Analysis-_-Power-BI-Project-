@@ -1,4 +1,4 @@
-# Plant-Co-Performance-Analysis-_-Power-BI-Project-
+# Plant-Co-Performance-Analysis--Power-BI-Project-
 ## Project Overview 
 This Power BI report provides a detailed analysis of the company's plant operations, focusing on gross profit (GP), quantity, and sales from 2022 to 2024.The goal of this project is to provide insightful visualizations of plant performance data, allowing managers to assess productivity, spot inefficiencies, and implement strategies to enhance operational efficiency.
 
